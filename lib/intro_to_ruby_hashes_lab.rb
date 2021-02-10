@@ -5,7 +5,6 @@ end
 def my_hash
   new_hash = {
     :car => "Sam"
-    :year => "2007"
   }
 end
 
