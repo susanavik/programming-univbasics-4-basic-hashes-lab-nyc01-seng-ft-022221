@@ -16,9 +16,5 @@ end
 
 
 def id_hash_generator(number)
-  id_hash_generator = {
-    :cars => 15
-    :planes => 25
-    }
-  :car.object_id
+  
 end
