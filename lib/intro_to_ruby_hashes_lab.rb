@@ -19,5 +19,5 @@ def id_hash_generator(number)
   id_hash_generator = {
     :id => 5
     }
-  :id.object_id
+  id_hash_generator(:id)
 end
